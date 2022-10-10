@@ -1,0 +1,11 @@
+git init
+
+git remote add origin git@github.com:msromualdo/abd-2022.git
+
+git add -A
+
+git config --global user.email "cont.romualdo@gmail.com"
+
+git config --global user.name "Maria Eduarda Santos Romualdo"
+
+git commit -m "First commit"
